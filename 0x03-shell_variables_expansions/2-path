@@ -1,2 +1,2 @@
-#!/binbash
-PATH=$PATH:/action
+#!/bin/bash
+ATH=$PATH:/action
