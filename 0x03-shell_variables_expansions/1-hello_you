@@ -1,3 +1,2 @@
 #!/binbash
 echo "hello "$USER
-
